@@ -2,6 +2,8 @@
 ## Purpose
 Using the data from a New York City bike sharing program to show potential investors that a bike-sharing program could work in Des Moines. One of the main focuses of this analysis will be on the bike trips themselves.
 
+With the use of a program called Tableau the data could easily be used to create multiple graphs seen [here](https://public.tableau.com/app/profile/ryan6401/viz/NYCBikeChallenge_16650197835400/NYCBikeChallenge)
+
 ## Results
 
 ![](ctbu.png)
@@ -23,3 +25,6 @@ This heat map uses the same data as above and seperates it by gender. From this 
 ![](gbw.png)
 
 Seperated by customers and subscribers this heat map shows usage throughout the weeek by gender. This data shows that a subscription based bike-sharing program brings in the most riders for male and female. 
+
+## Summary
+In conclusion, from all the data gathered one of the biggest patterns seen is that it is largely male dominated. The second factor gathered is that most of the riders are commuters or at least riding during that time frame. Lasltly to get a higher percentage of riders a subscription based bike-sharing program is seen to be the easiest way to accomplish this task.
